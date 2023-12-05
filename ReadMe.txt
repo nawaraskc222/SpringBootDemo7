@@ -5,3 +5,11 @@ public interface UserRepository extends JpaRepository<WebsiteUser, Long> {
 
 	
 }
+
+
+
+POST localhost:8080/users  click raw ,json
+GET localhost:8080/users
+
+
+https://youtu.be/UfOxcrxhC0s?si=Z8xMe70mxr3oZOau
